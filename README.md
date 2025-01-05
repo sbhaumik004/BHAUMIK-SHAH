@@ -46,6 +46,6 @@ The waste water management project aims to monitor and optimize the treatment an
 
 3.**Interpretation and Decision-making:** The interpretation of analytics results requires expertise and understanding of context. Misinterpretation of data,biases or incorrect decision-making could lead to ineffective outcomes. 
 
-4. **Budget & Resource Constraints:** Insufficient resources, both financial and human, could impact the project's scope, timeline, and quality.
+4.**Budget & Resource Constraints:** Insufficient resources, both financial and human, could impact the project's scope, timeline, and quality.
 
    
