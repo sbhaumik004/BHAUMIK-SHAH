@@ -48,4 +48,12 @@ The waste water management project aims to monitor and optimize the treatment an
 
 4.**Budget & Resource Constraints:** Insufficient resources, both financial and human, could impact the project's scope, timeline, and quality.
 
+# Conclution 
+
+1. Plant Los Angeles Treatment Plant is treating highest volume & Sacramento Treatment Plant is treating lowest volume of waste water
+2. % Contribution of Sources in Waste Water finding that 33.4% is Helthcare, 33.4% is Industrial & 33.3% is residential.
+3. Los Angeles Treatment Plant is maximum utilized.
+4. Denver Treatment Plant is highly efficient.
+5. Almost same volume of waste water is treated everyday by different plants
+
    
