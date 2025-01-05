@@ -5,8 +5,11 @@ The waste water management project aims to monitor and optimize the treatment an
 # Goals
 
 • **Ensure efficient and responsible treatment of wastewater to improve effectiveness and efficiency.**
-• **Integrate data from different sources and performing analysis.**
+
+• **Integrate data from different sources and performing analysis**
+
 • **Design Analytical Report.**
+
 • **Provide Recommendations based on analytical report.**
 
 # Objective and Scope
